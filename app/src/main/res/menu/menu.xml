@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_brush"
+        android:title="Brush">
+    </item>
+    <item
+        android:id="@+id/menu_change_color"
+        android:title="Change color">
+    </item>
+    <item
+        android:id="@+id/menu_choose_thickness"
+        android:title="Choose thickness">
+    </item>
+    <item
+        android:id="@+id/menu_choose_brush_mode"
+        android:title="Choose brush mode">
+    </item>
+    <item
+        android:id="@+id/menu_eraser"
+        android:title="Eraser">
+    </item>
+    <item
+        android:id="@+id/menu_clear"
+        android:title="Clear">
+    </item>
+</menu>
